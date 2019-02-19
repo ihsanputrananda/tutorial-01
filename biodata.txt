@@ -1,2 +1,3 @@
 NPM : 1606918276
 Nama : Ihsan Putrananda
+Jurusan : Sistem Informasi
